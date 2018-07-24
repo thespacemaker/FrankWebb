@@ -1,4 +1,8 @@
 .up {
   position: relative;
-  top: -20px
+  top: -20px;
+}
+
+.wrap {
+  word-wrap: break-word;
 }
